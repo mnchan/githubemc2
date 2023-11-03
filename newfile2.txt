@@ -1,0 +1,2 @@
+This is a new file from Git status
+adding
